@@ -1,0 +1,14 @@
+{
+  "name": "js-playground",
+  "version": "1.0.0",
+  "description": "JavaScript coding practice with types like debounce, drag&drop, etc.",
+  "scripts": {
+    "start": "parcel public/index.html",
+    "build": "parcel build public/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0",
+    "eslint": "^8.56.0"
+  },
+  "keywords": ["javascript", "frontend", "practice", "codingtest"]
+}
